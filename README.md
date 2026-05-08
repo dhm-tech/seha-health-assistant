@@ -77,5 +77,5 @@ git push -u origin main
 - To make the project submission-ready, add your PDF dataset to `Seha_Project/DATA` and confirm the app opens in the browser.
 
 ## 👤 Authors
-> Designed by: [Abdulrahman Qutah, Omar Sharqawi, Abdulrahman Tubiqi]  
+> Designed by: [Abdulrahman Qutah, Omar Shargawi, Abdulrahman Tubiqi]  
 > Date: [8 May 2026]
