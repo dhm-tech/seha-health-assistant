@@ -72,3 +72,7 @@ git push -u origin main
 ## 🧠 Notes
 - This repo is already a working prototype with a UI.
 - To make the project submission-ready, add your PDF dataset to `Seha_Project/DATA` and confirm the app opens in the browser.
+
+## 👤 Author
+> Designed by: [Abdulrahman Qutah]  
+> Date: [8 May 2026]
