@@ -69,6 +69,9 @@ git push -u origin main
 3. Do not upload the virtual environment folder `.venv` or `Seha_Project/seha_env/`.
    These are ignored by `.gitignore`.
 
+## 📸 Project Sample
+![Preview](UI.png)
+
 ## 🧠 Notes
 - This repo is already a working prototype with a UI.
 - To make the project submission-ready, add your PDF dataset to `Seha_Project/DATA` and confirm the app opens in the browser.
